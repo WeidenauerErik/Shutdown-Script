@@ -5,7 +5,6 @@
 
  - Description
  - Features
- - Installation
  - Usage
 
 ## Description
